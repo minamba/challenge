@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_Kevin", "Challenge_Kevin\Challenge_Kevin.csproj", "{0F2D9E32-CAC9-4E1E-BA64-8BB16381201A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_KevinTest", "Challenge_KevinTest\Challenge_KevinTest.csproj", "{F06DCB97-F792-4161-90A0-FF359A885268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2D9E32-CAC9-4E1E-BA64-8BB16381201A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2D9E32-CAC9-4E1E-BA64-8BB16381201A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2D9E32-CAC9-4E1E-BA64-8BB16381201A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2D9E32-CAC9-4E1E-BA64-8BB16381201A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06DCB97-F792-4161-90A0-FF359A885268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06DCB97-F792-4161-90A0-FF359A885268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06DCB97-F792-4161-90A0-FF359A885268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06DCB97-F792-4161-90A0-FF359A885268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F1E917-F8C7-4A0C-B7F7-2E16BABC067E}
+	EndGlobalSection
+EndGlobal
