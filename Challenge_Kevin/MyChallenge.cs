@@ -31,16 +31,15 @@ namespace Challenge_Kevin
 
         public bool TriangleAreEqual(Triangle t1, Triangle t2)
         {
-                bool compare = t1.Equals(t2);
-                return compare;           
+                return t1.Equals(t2);           
         }
 
         public bool PerimeterAreEqual(Triangle t1, Triangle t2)
         {
             if (t1.A == t2.A && t1.B == t2.B && t1.C == t2.C)
-            {
+
                 return true;
-            }
+ 
             else
                 return false;
         }
