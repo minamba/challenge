@@ -65,7 +65,7 @@ namespace Challenge_KevinTest
         public void Abs(int a, int expected)
         {
             var mc = new MyChallenge();
-            mc.Abs(ref a);
+             mc.Abs(ref a);
 
             Assert.AreEqual(expected, a);
         }
